@@ -1,0 +1,3 @@
+{"event_id":"SEC-5001","event_timestamp":"2025-01-09T08:14:32Z","severity":"medium","event_type":"failed_login","user_id":"EMP-003","source_ip":"10.20.14.22","system":"erp-finance"}
+{"event_id":"SEC-5002","event_timestamp":"2025-01-09T09:05:44Z","severity":"high","event_type":"privilege_change","user_id":"EMP-001","source_ip":"10.20.14.40","system":"data-warehouse"}
+{"event_id":"SEC-5003","event_timestamp":"2025-01-09T10:17:03Z","severity":"low","event_type":"vpn_connect","user_id":"EMP-002","source_ip":"10.20.15.11","system":"remote-access"}

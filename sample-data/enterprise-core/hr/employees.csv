@@ -1,0 +1,5 @@
+employee_id,employee_name,department,country,employment_type,hire_date,is_manager
+EMP-001,Alex Morgan,Finance,United States,Full-Time,2020-06-15,true
+EMP-002,Jamie Chen,Sales,United Kingdom,Full-Time,2021-09-01,false
+EMP-003,Riley Singh,IT,India,Contractor,2023-04-17,false
+EMP-004,Taylor Kim,HR,Canada,Full-Time,2019-11-03,true

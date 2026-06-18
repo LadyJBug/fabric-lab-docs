@@ -1,0 +1,11 @@
+Vendor Contract Summary
+-----------------------
+Vendor: Litware Cloud Services
+Contract ID: VC-2025-014
+Start Date: 2025-01-01
+End Date: 2027-12-31
+Service Area: Managed Data Platform Operations
+Renewal Type: Auto-renew unless cancelled 90 days before expiration
+
+This text file is intentionally simple and contains no sensitive data.
+It can be used to test document ingestion, indexing, and search scenarios.

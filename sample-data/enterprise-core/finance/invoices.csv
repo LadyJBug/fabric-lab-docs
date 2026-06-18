@@ -1,0 +1,5 @@
+invoice_id,order_id,invoice_date,due_date,payment_terms,payment_status,tax_amount_usd
+INV-30001,ORD-90001,2025-01-06,2025-02-05,Net 30,Paid,1480.00
+INV-30002,ORD-90002,2025-01-08,2025-02-22,Net 45,Open,736.04
+INV-30003,ORD-90003,2025-01-09,2025-02-08,Net 30,Paid,3609.66
+INV-30004,ORD-90004,2025-01-10,2025-01-25,Net 15,Credited,104.00

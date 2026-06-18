@@ -1,0 +1,5 @@
+customer_id,customer_name,industry,region,segment,created_date
+CUST-1001,Contoso Retail Group,Retail,North America,Enterprise,2024-01-15
+CUST-1002,Fabrikam Logistics,Transportation,Europe,Mid-Market,2024-02-05
+CUST-1003,Northwind Health,Healthcare,North America,Enterprise,2024-02-20
+CUST-1004,Adventure Works Manufacturing,Manufacturing,APAC,Enterprise,2024-03-03
