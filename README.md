@@ -13,7 +13,7 @@ This repository provides realistic, non-sensitive sample content that can be use
 
 ## Sample dataset
 
-Path: `/home/runner/work/fabric-lab-docs/fabric-lab-docs/sample-data/enterprise-core`
+Path: `sample-data/enterprise-core/`
 
 - `sales/customers.csv` - customer master data
 - `sales/orders.csv` - sales transactions
